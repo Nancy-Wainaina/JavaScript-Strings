@@ -56,5 +56,5 @@ let last = words.toLowerCase();
 console.log({last});
 
 let statement = "A wonderful world";
-let conclusion = statement.toTitleCase();
+let conclusion = statement.toTitle();
 console.log({conclusion});
